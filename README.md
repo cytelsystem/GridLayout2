@@ -1,7 +1,7 @@
-https://cytelsystem.github.io/Pizza-front/
+https://cytelsystem.github.io/GridLayout2/
 
-# Pizza&Front
+# GridLayout 2
 
-## lenguaje HTML
+## lenguaje GridLayout
 
 ### Clase de Front-End
